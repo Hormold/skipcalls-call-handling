@@ -1,0 +1,10 @@
+site_name: SkipCalls Call-Handling Guide
+site_description: Practical patterns for missed, busy, and after-hours business calls
+site_url: https://skipcalls-call-handling.readthedocs.io/
+repo_url: https://github.com/Hormold/skipcalls-call-handling
+nav:
+  - Overview: index.md
+  - Intake checklist: intake-checklist.md
+  - Safe API examples: safe-api-examples.md
+theme:
+  name: readthedocs
